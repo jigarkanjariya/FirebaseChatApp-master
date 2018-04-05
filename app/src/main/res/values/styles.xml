@@ -1,0 +1,28 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--Customize your theme here. -->
+        <item name="colorPrimary">#ccced2</item>
+        <item name="colorPrimaryDark">#aaabaf</item>
+        <item name="colorAccent">#2b2a2a</item>
+
+        <!--<color name="colorPrimary">#ccced2</color>-->
+        <!--<color name="colorPrimaryDark">#aaabaf</color>-->
+        <!--<color name="colorAccent">#faf9f9</color>-->
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="CustomFontStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:typeface">serif</item>
+        <item name="android:textSize">14pt</item>
+        <item name="android:textColor">#383b38</item>/>
+    </style>
+</resources>
